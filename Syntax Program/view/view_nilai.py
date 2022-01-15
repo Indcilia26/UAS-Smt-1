@@ -35,10 +35,3 @@ def cetak_hasil_pencarian():
         print("==============================================================")
     else:
         print("Data {0} Tidak Ada ".format(nama))
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
